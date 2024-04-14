@@ -3,7 +3,7 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=popbottoms&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=material-palenight&hide_border=true" alt="Stats" />
     </td>
     <td>
