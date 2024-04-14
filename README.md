@@ -1,4 +1,4 @@
 hi i dont use github!!!
 <img src="https://github.com/popbottoms/popbottoms/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-<img src="https://github-readme-stats.vercel.app/api?username=popbottoms&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=material-palenight&hide_border=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popbottoms&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=popbottoms&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/popbottoms/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popbottoms&layout=compact&theme=material-palenight&hide_border=true" /></a> |
+| ------------- | ------------- |
